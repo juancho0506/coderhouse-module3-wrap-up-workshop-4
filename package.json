@@ -1,5 +1,5 @@
 {
-  "name": "practica-integradora3-modulo3-arquitectura-capas-patrones-email",
+  "name": "practica-integradora4-modulo3-loggers-swagger-testing",
   "version": "1.0.0",
   "description": "Practica integradora para unir todas lo desarrollado en el curso hasta ahora.",
   "main": "app.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juancho0506/coderhouse-module3-wrap-up-workshop-3"
+    "url": "git+https://github.com/juancho0506/coderhouse-module3-wrap-up-workshop-4"
   },
   "keywords": [
     "express-custom",
@@ -25,14 +25,17 @@
     "jwt",
     "email",
     "dotenv",
-    "singleton"
+    "singleton",
+    "swagger",
+    "loggers",
+    "testing"
   ],
   "author": "Juan Torres",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juancho0506/coderhouse-module3-wrap-up-workshop-3/issues"
+    "url": "https://github.com/juancho0506/coderhouse-module3-wrap-up-workshop-4/issues"
   },
-  "homepage": "https://github.com/juancho0506/coderhouse-module3-wrap-up-workshop-3#readme",
+  "homepage": "https://github.com/juancho0506/coderhouse-module3-wrap-up-workshop-4#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cookie-parser": "^1.4.6",

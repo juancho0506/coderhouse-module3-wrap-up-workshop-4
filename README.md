@@ -55,3 +55,5 @@ Se crea el servicio de mailing en la carpeta services y se agregan las variables
 - winston
 - swagger-jsdoc
 - swagger-ui-express
+- chai: en modo development
+- mocha: en modo development
